@@ -1,0 +1,30 @@
+[submodule "alexandria"]
+	path = alexandria
+	url = https://github.com/keithj/alexandria.git
+[submodule "babel"]
+	path = babel
+	url = https://github.com/keithj/babel.git
+[submodule "trivial-features"]
+	path = trivial-features
+	url = https://github.com/keithj/trivial-features.git
+[submodule "getopt"]
+	path = getopt
+	url = https://github.com/keithj/getopt.git
+[submodule "deoxybyte-systems"]
+	path = deoxybyte-systems
+	url = https://github.com/keithj/deoxybyte-systems.git
+[submodule "deoxybyte-utilities"]
+	path = deoxybyte-utilities
+	url = https://github.com/keithj/deoxybyte-utilities.git
+[submodule "deoxybyte-io"]
+	path = deoxybyte-io
+	url = https://github.com/keithj/deoxybyte-io.git
+[submodule "deoxybyte-run"]
+	path = deoxybyte-run
+	url = https://github.com/keithj/deoxybyte-run.git
+[submodule "deoxybyte-unix"]
+	path = deoxybyte-unix
+	url = https://github.com/keithj/deoxybyte-unix.git
+[submodule "deoxybyte-gzip"]
+	path = deoxybyte-gzip
+	url = https://github.com/keithj/deoxybyte-gzip.git
