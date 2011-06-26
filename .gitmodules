@@ -28,3 +28,6 @@
 [submodule "deoxybyte-gzip"]
 	path = deoxybyte-gzip
 	url = https://github.com/keithj/deoxybyte-gzip.git
+[submodule "cffi"]
+	path = cffi
+	url = http://common-lisp.net/r/projects/cffi/cffi.git
