@@ -22,4 +22,5 @@ A library directory that contains a release number in its name
 e.g. cl-fad-0.6.4 contains a copy of a source release. All other
 library directories contain a git submodule.
 
-Licensing is described in the individual libraries' documentation.
+Licensing is described in the individual libraries' documentation. See
+each libraries' ASDF configuration file for their version numbers.
